@@ -5,8 +5,8 @@ To write a python program to perform Back Propagation with Single Neuron.
 
 ## EQUIPMENTS REQUIRED:
 
-1.Hardware – PCs
-2.Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
+1. Hardware – PCs
+2. Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ## RELATED THEORITICAL CONCEPT:
 
